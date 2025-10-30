@@ -1,1 +1,37 @@
-site_name: My Docs
+site_name: Portal DCMEFO
+site_description: Portal de conhecimento da equipe DCMEFO — SEF/MG
+theme:
+ name: material
+ language: pt
+ features:
+   - navigation.tabs
+   - navigation.sections
+   - navigation.top
+   - toc.integrate
+ palette:
+   - scheme: default
+     primary: indigo
+     accent: teal
+extra_css:
+ - assets/styles/styles/extra.css
+nav:
+ - Início: index.md
+ - Rotina Orçamentária:
+     - Calendário do Orçamento: calendario.md
+     - Dicas e Alertas: dicas.md
+ - Quem é Quem: setorialistas.md
+ - Entendendo o Orçamento:
+     - Cotas Orçamentárias: cotas-orcamentarias.md
+     - Créditos Orçamentários: creditos-orcamentarios.md
+     - Entendendo Conceitos: entendendo-conceitos.md
+     - DPO: dpo.md
+     - Monitoramento: monitoramento.md
+     - Orçamento Base Zero (OBZ): orcamento-base-zero.md
+ - Ferramentas e Apoio:
+     - Planilhas Auxiliares: planilhas.md
+     - Boas Práticas: boas-praticas.md
+markdown_extensions:
+ - admonition
+ - pymdownx.tabbed
+ - pymdownx.details
+ - pymdownx.superfences     

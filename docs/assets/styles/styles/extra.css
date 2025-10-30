@@ -1,0 +1,100 @@
+:root {
+ --dcmefo-primary: #224c57;    /* azul-petróleo */
+ --dcmefo-accent:  #c7a55b;    /* dourado */
+ --dcmefo-accent-hover: #b7934e;
+}
+/* HEADER / TABS / TOP BAR */
+.md-header,
+.md-top,
+.md-top-nav,
+.md-tabs,
+.md-header__inner,
+.md-top .md-nav {
+ background-color: var(--dcmefo-primary) !important;
+ border-color: var(--dcmefo-primary) !important;
+}
+/* NAV LINKS (desktop top nav) */
+.md-top .md-nav__link,
+.md-header .md-nav__link,
+.md-tabs .md-tabs__list .md-nav__link {
+ color: #ffffff !important;
+ opacity: 1 !important;
+}
+/* ACTIVE / HOVER ON LINKS */
+.md-top .md-nav__link--active,
+.md-top .md-nav__link:hover,
+.md-header .md-nav__link--active,
+.md-header .md-nav__link:hover {
+ color: var(--dcmefo-accent) !important;
+ text-decoration: none !important;
+}
+/* MOBILE / COLLAPSED NAV (se aplicável) */
+.md-nav__link {
+ color: #ffffff !important;
+}
+.md-nav__link:hover { color: var(--dcmefo-accent) !important; }
+/* BOTÕES */
+.md-button, .md-button--primary {
+ background-color: var(--dcmefo-accent) !important;
+ color: #fff !important;
+ border-radius: 6px !important;
+}
+.md-button:hover, .md-button--primary:hover {
+ background-color: var(--dcmefo-accent-hover) !important;
+}
+/* TITLES / TEXT */
+h1, h2, h3, h4 {
+ color: var(--dcmefo-primary) !important;
+}
+/* FUNDO PRINCIPAL */
+.md-main, .md-content {
+ background: #fafafa !important;
+}
+/* Garantir que não haja outro estilo inline fazendo override */
+:root * { box-sizing: border-box; }
+/* ===== AJUSTE MENU LATERAL ===== */
+.md-sidebar__inner,
+.md-nav__list,
+.md-nav {
+ background-color: #f8f9fa !important; /* fundo suave e claro */
+}
+/* links padrão (não selecionados) */
+.md-nav__link {
+ color: #224c57 !important; /* azul-petróleo */
+ font-weight: 500 !important;
+}
+/* link ativo ou hover */
+.md-nav__link--active,
+.md-nav__link:hover {
+ color: #c7a55b !important; /* dourado */
+ font-weight: 600 !important;
+}
+/* ícones ou setas da sidebar (se houver) */
+.md-nav__toggle::before {
+ color: #224c57 !important;
+}
+.md-header {
+  background-image: url('../images/banner.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+video {
+ border-radius: 10px;
+ box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+ margin-top: 20px;
+ width: 100%;
+ max-width: 800px;
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+} 
+.video-limite {
+  display: block;
+  margin: 20px auto;
+  max-width: 700px; /* largura máxima do vídeo */
+  width: 100%; /* adapta ao tamanho da tela */
+  border-radius: 10px;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+}
+ 

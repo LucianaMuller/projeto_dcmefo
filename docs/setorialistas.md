@@ -1,7 +1,6 @@
-# 👥 Equipe DCMEFO
+#Equipe DCMEFO
 
-##**Conheça a equipe responsável por acompanhar cada área do orçamento.**
-*Aqui você encontra quem atua em cada setor e seus respectivos apoios.*
+**Aqui você encontra quem atua em cada setor e seus respectivos apoios.**
 
 ## Diretor
 === "Pedro Braga"

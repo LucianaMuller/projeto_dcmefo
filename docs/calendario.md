@@ -1,4 +1,4 @@
-**📅 Janeiro no Setor Orçamentário: o que acontece neste primeiro mês do ano?**
+###**Janeiro no Setor Orçamentário: o que acontece neste primeiro mês do ano?**
 
 O ano começa, e com ele vêm também as atividades orçamentárias que dão o pontapé inicial na execução financeira do setor público. Janeiro é um mês crucial — e entender bem o que acontece nesse período pode facilitar (e muito!) a rotina de quem atua com orçamento. Vamos por partes:
 

@@ -4,7 +4,7 @@ site_url: https://lucianamuller.github.io/projeto_dcmefo/
 theme:
  name: material
  language: pt
- logo: assets/styles/styles/images/ratinho-navbar.png
+ logo: assets/styles/styles/images/logo.png
  features:
    - navigation.tabs
    - navigation.sections

@@ -2,11 +2,11 @@
 
 **Aqui você encontra quem atua em cada setor e seus respectivos apoios.**
 
-## Diretor
+**Diretor**
 === "Pedro Braga"
 **E-mail:** [pedro.braga@planejamento.mg.gov.br](mailto:pedro.braga@planejamento)
 
-## Setorialistas
+**Setorialistas**
 === "Andrea Regina"
 **E-mail:** [andrea.regina@planejamento.mg.gov.br](mailto:andrea.regina@planejamento)  
 **Setores:** Fazenda, Segov, Ipsemg, Fundapec, Loteria, Casa Civil, Jucemg  

@@ -3,11 +3,13 @@ site_description: Portal de conhecimento da equipe DCMEFO — SEF/MG
 theme:
  name: material
  language: pt
+ logo: assets/styles/styles/images/ratinho-navbar.png
  features:
    - navigation.tabs
    - navigation.sections
    - navigation.top
-   - toc.integrate
+ hide:
+   - toc
  palette:
    - scheme: default
      primary: indigo
@@ -27,11 +29,16 @@ nav:
      - DPO: dpo.md
      - Monitoramento: monitoramento.md
      - Orçamento Base Zero (OBZ): orcamento-base-zero.md
+ - Orçamento de investimento:
+     - Suplementação: suplementacao.md     
  - Ferramentas e Apoio:
      - Planilhas Auxiliares: planilhas.md
      - Boas Práticas: boas-praticas.md
 markdown_extensions:
  - admonition
- - pymdownx.tabbed
+ - footnotes
+ - toc:
+     permalink: false
  - pymdownx.details
- - pymdownx.superfences     
+ - pymdownx.superfences
+ - pymdownx.tabbed

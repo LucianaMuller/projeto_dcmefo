@@ -1,5 +1,5 @@
 # Portal DCMEFO
-## Seu portal para navegar no orçamento sem mistério
+**Seu portal para navegar no orçamento sem mistério**
 
 Somos a equipe **DCMEFO**, responsável por apoiar e orientar os órgãos do Estado de Minas Gerais em tudo que envolve o orçamento público.
 

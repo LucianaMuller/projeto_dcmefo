@@ -97,4 +97,15 @@ video {
   border-radius: 10px;
   box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
 }
- 
+/* força o ícone-logo a usar a cor branca no cabeçalho */
+.md-header .md-logo img,
+.md-header .md-logo svg {
+ color: #ffffff !important;        /* para SVG que usa currentColor */
+ fill: #ffffff !important;         /* garante preenchimento */
+ filter: none !important;
+}
+/* reduz um pouco o logo no topo para caber bem */
+.md-header .md-logo img {
+ height: 34px !important;
+ width: auto !important;
+} 

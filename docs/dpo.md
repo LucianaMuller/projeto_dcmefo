@@ -1,4 +1,4 @@
-##**Decreto de Programação Orçamentária**
+**Decreto de Programação Orçamentária**
 
 
 **O que é o DPO?**
@@ -9,9 +9,10 @@ Ele diz **quanto** dinheiro pode ser gasto, **onde** e **quando** isso pode acon
 **Base legal do DPO**
 
 O DPO segue várias leis importantes, entre elas:
--**A Lei Orçamentária Anual (LOA)**, que é a lei que aprova o orçamento do ano;
--**A Lei de Responsabilidade Fiscal**, que garante que o governo gaste dentro do que pode;
--**A Lei de Finanças Públicas**, que define regras básicas para o orçamento.
+
+- **A Lei Orçamentária Anual (LOA)**, que é a lei que aprova o orçamento do ano;
+- **A Lei de Responsabilidade Fiscal**, que garante que o governo gaste dentro do que pode;
+- **A Lei de Finanças Públicas**, que define regras básicas para o orçamento.
 
 **Quais as principais funções do DPO?**
 
